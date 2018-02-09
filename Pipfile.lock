@@ -9,9 +9,9 @@
             "os_name": "posix",
             "platform_machine": "x86_64",
             "platform_python_implementation": "CPython",
-            "platform_release": "4.9.78",
+            "platform_release": "4.9.80",
             "platform_system": "Linux",
-            "platform_version": "#1-NixOS SMP Tue Jan 23 18:57:10 UTC 2018",
+            "platform_version": "#1-NixOS SMP Sat Feb 3 16:05:43 UTC 2018",
             "python_full_version": "3.6.4",
             "python_version": "3.6",
             "sys_platform": "linux"
@@ -57,11 +57,11 @@
         },
         "ipykernel": {
             "hashes": [
-                "sha256:9b9a9c1c566eabed6dc1536e9ea0cdb7b3a642cdb8a23b67e2047d8d7d61f5f7",
-                "sha256:8622cd42d952849057db38b81f0837a0ee6b865dea65d4b0b660164c96e6d052",
-                "sha256:dedc199df6a38725c732986dfa606c245fb8fe0fe999b33a0c305b73d80c6774"
+                "sha256:fa4a5cbe2f78894c0ce0b13e6d25ff083355f4077d85ed8d21b615d0c7d25c9b",
+                "sha256:1904617c157e2da135288dd913d9db3bdd7ee7cabb78a6cbaf56f334de3c3f19",
+                "sha256:fe2837622a4121cbe42b354db1e2ab46c91e807ffcb92f4c2cfd323a75f8737f"
             ],
-            "version": "==4.8.0"
+            "version": "==4.8.1"
         },
         "ipython": {
             "hashes": [
